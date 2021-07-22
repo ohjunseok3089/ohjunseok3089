@@ -69,8 +69,3 @@ I have not enough developing expereinces, but I will stay busy patient learning 
 ### Purdue University
 #### - 🖥 Bachelor of Science in Computer Science
 #### - 🎓 Expected graduation year : 2024
-
-## License
-Blog Theme :
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
