@@ -26,7 +26,7 @@ I do not have enough development experience, but I will stay busy learning new c
 ⛏️ Skills
 ======================
 ## BackEnd
-    - Java, C
+    - Java, C, C++
     - Intellij, Visual Studio, Vim
     - Git
 ## FrontEnd
