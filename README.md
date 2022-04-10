@@ -38,6 +38,12 @@ I do not have enough development experience, but I will stay busy learning new c
     
 💻 Working Experience & Projects
 ======================
+### Stanford University Research Assistant
+#### - 🗓 2022. 02 ~ Current
+    - Bioinformatics Database for SCEmbroider Visualization Tool
+    •	Build a database for the Bioinformatics project to visualize scRNA-seq dataset.
+    •	Provide bioinformatics data and allow people to share scRNA data and formatted files from SCEmbroider visualization tool with non-bioinformaticians.
+
 ### ByteTech Inc.
 #### - 🗓 2019. 05 ~ 2019. 09 (4 Months)
     웹사이트 기본적인 유지 보수 및 기능 개발 참여
