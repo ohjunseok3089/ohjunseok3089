@@ -10,10 +10,10 @@
 # Dreaming to become an Innovative Developer,
 
 Hello! My name is Junseok Oh, and currently majoring in Computer Science @ Purdue University.
-Usually, throughout my life, I love to create something new, and don't hesitate to learn about
-things that I feel interesting. And this made me to code more creative and efficient at the same time in college,
-which also make readers to have 'fun' reading and reviewing my code.
-I have not enough developing expereinces, but I will stay busy patient learning new concepts and become more reliable and innovative developer.
+Usually, I love to create something new throughout my life and don't hesitate to learn about
+things that I feel are interesting. And this made my code more creative and efficient at the same time in college,
+which also made readers have 'fun' reading and reviewing my code.
+I do not have enough development experience, but I will stay busy learning new concepts and becoming a more reliable and innovative developer.
 
 * * *
 ## Connect & Channel
