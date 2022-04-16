@@ -1,4 +1,4 @@
-💁🏻 About Me,
+💁🏻 About Me, 
 ======================
 
 # 혁신적인 개발자를 꿈꾸는 대학생,
@@ -16,7 +16,9 @@ which also made readers have 'fun' reading and reviewing my code.
 I do not have enough development experience, but I will stay busy learning new concepts and becoming a more reliable and innovative developer.
 
 * * *
-## Connect & Channel
+## Connect & Channel 
+<img src='https://user-images.githubusercontent.com/50987316/163688697-676962b1-acc0-45dc-8744-6370aae63b89.png' style='width: 20px'> **Linkedin**: [Linkedin](https://www.linkedin.com/in/junseok-oh-38789b178/)
+
 **✉️ Personal Email**:   [ohjunseok3089@gmail.com](ohjunseok3089@gmail.com)
 
 **📋 Personal Github**:  [https://github.com/ohjunseok3089](https://github.com/ohjunseok3089)
