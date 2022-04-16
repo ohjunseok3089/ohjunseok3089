@@ -40,9 +40,10 @@ I do not have enough development experience, but I will stay busy learning new c
 ======================
 ### <img src='https://user-images.githubusercontent.com/50987316/162639916-01b195e8-6f50-449b-9d97-796b6a3a0104.png' style="width: 40px"> Stanford University Research Assistant 
 #### - 🗓 2022. 02 ~ Current
-    Bioinformatics Database for SCEmbroider Visualization Tool
-    •	Build a database for the Bioinformatics project to visualize scRNA-seq dataset.
-    •	Provide bioinformatics data and allow people to share scRNA data and formatted files from SCEmbroider visualization tool with non-bioinformaticians.
+    Front-end Developer for Bioinformatics Database for scEmbroider Visualization Tool
+    • Build a database for the Bioinformatics project to visualize the single-cell RNA-seq dataset.
+    • Provide bioinformatics data and allow people to share scRNA data and formatted files from the single-cell Embroider visualization tool with non-bioinformaticians.
+    • Utilize D3.js tools to make a visual representation of t–Stochastic Neighbourhood Embedding (t-SNE) and Uniform Manifold Approximation and Projection (UMAP) on the website
 
 ### ByteTech Inc.
 #### - 🗓 2019. 05 ~ 2019. 09 (4 Months)
