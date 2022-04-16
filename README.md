@@ -9,7 +9,7 @@
 
 # Dreaming to become an Innovative Developer,
 
-Hello! My name is Junseok Oh, and currently majoring in Computer Science @ Purdue University.
+Hello! My name is Junseok Oh, and currently majoring in Computer Science with Mathematics minor @ Purdue University.
 Usually, I love to create something new throughout my life and don't hesitate to learn about
 things that I feel are interesting. And this made my code more creative and efficient at the same time in college,
 which also made readers have 'fun' reading and reviewing my code.
