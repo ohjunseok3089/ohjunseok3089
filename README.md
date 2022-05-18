@@ -40,7 +40,7 @@ I do not have enough development experience, but I will stay busy learning new c
     
 💻 Working Experience & Projects
 ======================
-### <img src='https://user-images.githubusercontent.com/50987316/162639916-01b195e8-6f50-449b-9d97-796b6a3a0104.png' style="width: 40px"> Stanford University Research Web Developer 
+### Research Web Developer 
 #### - 🗓 2022. 02 ~ Current
     Front-end Developer for Bioinformatics Database for scEmbroider Visualization Tool
     • Build a database for the Bioinformatics project to visualize the single-cell RNA-seq dataset.
