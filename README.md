@@ -24,6 +24,8 @@ I do not have enough development experience, but I will stay busy learning new c
 **📋 Personal Github**:  [https://github.com/ohjunseok3089](https://github.com/ohjunseok3089)
 
 **☕️ Personal Blog**:    [ohjunseok3089.github.io](ohjunseok3089.github.io)
+
+![Junseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjunseok3089&theme=dark&show_icons=true)
 * * *
 ⛏️ Skills
 ======================
