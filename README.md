@@ -27,8 +27,6 @@ I do not have enough development experience, but I will stay busy learning new c
 
 ![Junseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjunseok3089&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunseok3089&layout=compact&theme=vision-friendly-dark)]
-
 * * *
 ⛏️ Skills
 ======================
