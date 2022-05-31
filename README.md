@@ -23,9 +23,9 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
 
 **✉️ Personal Email**:   [ohjunseok3089@gmail.com](ohjunseok3089@gmail.com)
 
-**📋 Personal Github**:  [https://github.com/ohjunseok3089](https://github.com/ohjunseok3089)
+**📋 Personal Github**:  [github.com/ohjunseok3089](https://github.com/ohjunseok3089)
 
-**☕️ Personal Blog**:    [https://ohjunseok3089.github.io](ohjunseok3089.github.io)
+**☕️ Personal Blog**:    [ohjunseok3089.github.io](https://ohjunseok3089.github.io)
 
 ![Junseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjunseok3089&theme=dark&show_icons=true)
 
