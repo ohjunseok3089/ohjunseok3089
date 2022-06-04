@@ -33,8 +33,8 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
 ⛏️ Skills
 ======================
 ## BackEnd
-    - Java, C, C++
-    - Intellij, Visual Studio, Vim
+    - Java, C, C++, R
+    - Intellij, Visual Studio, Vim, R Studio
     - Git
 ## FrontEnd
     - PHP, HTML, CSS
