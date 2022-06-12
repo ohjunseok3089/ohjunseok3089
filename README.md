@@ -1,14 +1,3 @@
----
-layout: post
-title:  "DEV BLOG START !"
-# excerpt: " About Me, "
-
-date: 2021-07-22 23:43:00
-last_modified_at: 2022-06-04
-
-categories: [misc]
-tags: [misc]
----
 
 💁🏻 About Me, 
 ======================
