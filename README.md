@@ -28,6 +28,8 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
 
 **☕️ Personal Blog**:    [ohjunseok3089.github.io](https://ohjunseok3089.github.io)
 
+[![Hits](https://hits.sh/github.com/ohjunseok3089/hits.svg?view=today-total&label=Visitors)](https://hits.sh/github.com/ohjunseok3089/hits/)
+
 ![Junseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjunseok3089&theme=dark&show_icons=true)
 
 * * *
