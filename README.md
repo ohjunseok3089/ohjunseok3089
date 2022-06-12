@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "DEV BLOG START !"
+# excerpt: " About Me, "
+
+date: 2021-07-22 23:43:00
+last_modified_at: 2022-06-04
+
+categories: [misc]
+tags: [misc]
+---
+
 💁🏻 About Me, 
 ======================
 
@@ -30,8 +42,10 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
 ![Junseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjunseok3089&theme=dark&show_icons=true)
 
 * * *
+
 ⛏️ Skills
 ======================
+
 ## BackEnd
     - Java, C, C++, R
     - Intellij, Visual Studio, Vim, R Studio
@@ -55,18 +69,21 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
     
 <hr/>
 
-### Research Web Developer 
-#### Publication
-##### SCEmbroider: Spatial visualizer of single-cell RNA sequencing
-##### Stanford University
-###### Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, Yunju Jung, Soojung So, Junseok Oh, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
-####
+### Stanford Research Web Developer
 #### - 🗓 2022. 02 ~ Current
 ##### Web Developer - JavaScript, HTML/CSS, and PHP
+    
     Front-end Developer for Bioinformatics Database for scEmbroider Visualization Tool
     • Build a database for the Bioinformatics project to visualize the single-cell RNA-seq dataset.
     • Provide bioinformatics data and allow people to share scRNA data and formatted files from the single-cell Embroider visualization tool with non-bioinformaticians.
     • Utilize D3.js tools to make a visual representation of t–Stochastic Neighbourhood Embedding (t-SNE) and Uniform Manifold Approximation and Projection (UMAP) on the website
+
+    Publication
+
+        SCEmbroider: Spatial visualizer of single-cell RNA sequencing
+            Stanford University
+        - Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, Yunju Jung, Soojung So, Junseok Oh, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
+
     
 <hr/>
 
