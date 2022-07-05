@@ -16,7 +16,7 @@ things that I feel are interesting. And this made my code more creative and effi
 which also made readers have 'fun' reading and reviewing my code.
 I do not have enough development experience, but I will stay busy learning new concepts and becoming a more reliable and innovative developer.
 
-I am currently a Junior at Purdue University Computer Science, specializing in the Machine Intelligence track and minoring in Mathematics. I am currently in an active search for an opportunity for the upcoming summer season internship. I love to create something new throughout my life and don't hesitate to learn about things that I feel are interesting. And this made my code more creative and efficient at the same time in college, which also made readers have 'fun' reading and reviewing my code. I always stay busy learning new concepts and becoming a more reliable and innovative developer.
+I am currently a Junior at Purdue University Computer Science, specializing in the Machine Intelligence track and minoring in Mathematics. I am currently in an active search for an opportunity for the upcoming summer season internship.
 
 * * *
 ## Connect & Channel 
