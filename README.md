@@ -65,7 +65,7 @@ SCEmbroider: Spatial visualizer of single-cell RNA sequencing
 Stanford University
 - Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, _**Junseok Oh**_, Yunju Jung, Soojung So, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
 
-<hr\>
+<hr/>
 
 ### WittGen Biotechnologies
 #### - 🗓 2022. 05 ~ Current
