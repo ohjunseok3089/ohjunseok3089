@@ -50,16 +50,6 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
     
 💻 Working Experience & Projects
 ======================
-### WittGen Biotechnologies
-#### - 🗓 2022. 05 ~ Current
-##### Data Scientist Intern - R
-    Data Scientist Intern 
-    • Contribute scraping data for AI-driven Cancer Heterogeneity Profiling Platform.
-    • Genomic Data processing for Machine Learning algorithm development
-    • Extracting, merging, integrating inspecting, processing Data, and differentiating cell types.
-    
-<hr/>
-
 ### <img src='https://user-images.githubusercontent.com/50987316/162639916-01b195e8-6f50-449b-9d97-796b6a3a0104.png' style="width: 40px"> Stanford University Research Web Developer
 #### - 🗓 2022. 02 ~ Current
 ##### Web Developer - JavaScript, HTML/CSS, and PHP
@@ -69,12 +59,21 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
     • Provide bioinformatics data and allow people to share scRNA data and formatted files from the single-cell Embroider visualization tool with non-bioinformaticians.
     • Utilize D3.js tools to make a visual representation of t–Stochastic Neighbourhood Embedding (t-SNE) and Uniform Manifold Approximation and Projection (UMAP) on the website
 
-    Publication
+### Publication
 
-        SCEmbroider: Spatial visualizer of single-cell RNA sequencing
-            Stanford University
-        - Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, _**Junseok Oh**_, Yunju Jung, Soojung So, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
+SCEmbroider: Spatial visualizer of single-cell RNA sequencing
+Stanford University
+- Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, _**Junseok Oh**_, Yunju Jung, Soojung So, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
 
+<hr\>
+
+### WittGen Biotechnologies
+#### - 🗓 2022. 05 ~ Current
+##### Data Scientist Intern - R
+    Data Scientist Intern 
+    • Contribute scraping data for AI-driven Cancer Heterogeneity Profiling Platform.
+    • Genomic Data processing for Machine Learning algorithm development
+    • Extracting, merging, integrating inspecting, processing Data, and differentiating cell types.
     
 <hr/>
 
