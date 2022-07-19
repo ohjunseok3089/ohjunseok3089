@@ -73,7 +73,7 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
 
         SCEmbroider: Spatial visualizer of single-cell RNA sequencing
             Stanford University
-        - Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, Yunju Jung, Soojung So, Junseok Oh, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
+        - Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, _**Junseok Oh**_, Yunju Jung, Soojung So, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
 
     
 <hr/>
