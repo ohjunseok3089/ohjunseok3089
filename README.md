@@ -50,6 +50,14 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
     
 💻 Working Experience & Projects
 ======================
+### Purdue University Mechanical Engineering
+#### - 🗓 2022. 09 ~ Current
+##### Undergraduate Research Assistant - Java, Android Studio
+    Working In Progress
+        • Develop an Android Application for food safety and manage Bluetooth module in between QCM and an Application
+        • Visualize Real-time frequency and temperature monitoring into a mobile application for the users
+
+
 ### <img src='https://user-images.githubusercontent.com/50987316/162639916-01b195e8-6f50-449b-9d97-796b6a3a0104.png' style="width: 40px"> Stanford University Research Web Developer
 #### - 🗓 2022. 02 ~ Current
 ##### Web Developer - JavaScript, HTML/CSS, and PHP
